@@ -151,6 +151,10 @@ form {
   line-height: 110%; /* 17.6px */
   letter-spacing: 0.16px;
 }
+.yozuv:hover {
+  color: #ffaa00;
+  cursor: pointer;
+}
 .yozuv-orab {
   display: flex;
   gap: 473px;
